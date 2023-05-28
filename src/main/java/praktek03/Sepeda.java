@@ -9,5 +9,7 @@ package praktek03;
  * @author Windows 11
  */
 public class Sepeda {
-    
+    String merk;
+    String warna;
+    double harga;
 }
